@@ -1,0 +1,23 @@
+#d1{
+    border: 3px solid gray;
+    width: 60%;
+    height: 170px;
+}
+#nome{
+    width: 80%;
+}
+#endereco{
+    width: 80%;
+}
+#bairro{
+ width: 20%;
+
+}
+#cep{
+ width: 20%;
+}
+#d2{
+    border: 3px solid gray;
+    width: 60%;
+    height: 470%;
+}
